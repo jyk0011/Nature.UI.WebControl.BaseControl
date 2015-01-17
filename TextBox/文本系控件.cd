@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.BaseTextBox">
+    <Position X="3" Y="0.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAIACACAAAAAAEAAgAIASgIAAAAQAAAAAAAAABAA=</HashCode>
+      <FileName>TextBox\BaseTextBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextBox">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextBox\MyTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextBoxDateTime">
+    <Position X="1.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextBox\MyTextBoxDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextBoxTwo">
+    <Position X="4.25" Y="7.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAABAgAAQgAIACAIAAAAAACAAAAAAABAA=</HashCode>
+      <FileName>TextBox\MyTextBoxTwo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyFCKeditor">
+    <Position X="4.25" Y="12.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgAIACAIAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>TextBox\MyFCKEditor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextUpLoad">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextBox\MyTextUpLoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="9.75" />
+</ClassDiagram>

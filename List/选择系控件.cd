@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyCheckBox">
+    <Position X="1.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgAIACAIAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>List\MyCheckBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyCheckBoxList">
+    <Position X="3.75" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIABAiAAACAAEAAgAIASgIAAAAQABAAAAgAABAA=</HashCode>
+      <FileName>List\myCheckBoxList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyDropDownList">
+    <Position X="1.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIABACBAAAAAEAAgAYASgIAAAAQABAAAAgAABAA=</HashCode>
+      <FileName>List\myDropDownList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyListBox">
+    <Position X="4" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAAAgAIACAIAAAAQAAAAAAgAABAA=</HashCode>
+      <FileName>List\myListBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyListPerson">
+    <Position X="1.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>List\MyListPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyRadioButtonList">
+    <Position X="6.25" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIABACAAAAAAEAAgAIASgIAAAAQAAAAAAgAABAA=</HashCode>
+      <FileName>List\myRadioButtonList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyUniteList">
+    <Position X="6.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAACAiCCQgAAARAgAIACEIAAAAgAAJAAIAAABAI=</HashCode>
+      <FileName>List\myUniteList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Tahoma" Size="9.75" />
+</ClassDiagram>

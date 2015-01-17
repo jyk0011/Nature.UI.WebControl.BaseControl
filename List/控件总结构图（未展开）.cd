@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="System.Web.UI.Control">
+    <Position X="9.5" Y="10.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+    <Lollipop Position="1.45" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.WebControl">
+    <Position X="9.5" Y="13" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.BaseDataBoundControl" Collapsed="true">
+    <Position X="6.75" Y="16.25" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.CheckBox" Collapsed="true">
+    <Position X="9" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.TextBox" Collapsed="true">
+    <Position X="10.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextBoxTwo" Collapsed="true">
+    <Position X="14.75" Y="16.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAABAgAAQgAIACAIAAAAAACAAAAAAABAA=</HashCode>
+      <FileName>TextBox\MyTextBoxTwo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextChoose" Collapsed="true">
+    <Position X="12.5" Y="16.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAABAAAAAgAIACAIAAAAAAAAgAAAAABAA=</HashCode>
+      <FileName>TextBox\MyTextChoose.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.DataBoundControl" Collapsed="true">
+    <Position X="6.75" Y="17.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.ListControl" Collapsed="true">
+    <Position X="7" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.DropDownList" Collapsed="true">
+    <Position X="6" Y="21" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.CheckBoxList" Collapsed="true">
+    <Position X="8" Y="21" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.ListBox" Collapsed="true">
+    <Position X="12" Y="21" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Web.UI.WebControls.RadioButtonList" Collapsed="true">
+    <Position X="10" Y="21" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyCheckBox" Collapsed="true">
+    <Position X="9" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgAIACAIAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>List\MyCheckBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.BaseTextBox" Collapsed="true">
+    <Position X="10.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIACACAAAAAAEAAgAIASgIAAAAQAAAAAAAAABAA=</HashCode>
+      <FileName>TextBox\BaseTextBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyFCKeditor" Collapsed="true">
+    <Position X="12.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgAIACAIAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>TextBox\MyFCKEditor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextBox" Collapsed="true">
+    <Position X="12" Y="19" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextBox\MyTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.TextBox.MyTextBoxDateTime" Collapsed="true">
+    <Position X="9.75" Y="19" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextBox\MyTextBoxDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyUniteList" Collapsed="true">
+    <Position X="8" Y="24" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAACAiCCQgAAARAgAIACEIAAAAgAAJAAIAAABAI=</HashCode>
+      <FileName>List\myUniteList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyRadioButtonList" Collapsed="true">
+    <Position X="10" Y="22.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIABACBAAAAAEAAgAYASgIAAAAQABAAAAgAABAA=</HashCode>
+      <FileName>List\myRadioButtonList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyListPerson" Collapsed="true">
+    <Position X="6" Y="24" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>List\MyListPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyListBox" Collapsed="true">
+    <Position X="12" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAAAgAIACAIAAAAQAAAAAAgAABAA=</HashCode>
+      <FileName>List\myListBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyDropDownList" Collapsed="true">
+    <Position X="6" Y="22.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIABACBAAAAAEAAgAYASgIAAAAQABAAAAgAABAA=</HashCode>
+      <FileName>List\myDropDownList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.BaseControl.List.MyCheckBoxList" Collapsed="true">
+    <Position X="8" Y="22.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIABAiAAACAAEAAgAIASgIAAAAQABAAAAgAABAA=</HashCode>
+      <FileName>List\myCheckBoxList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="8.75" Y="6.25" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FredCK.FCKeditorV2.FCKeditor" Collapsed="true">
+    <Position X="12.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Tahoma" Size="9.75" />
+</ClassDiagram>

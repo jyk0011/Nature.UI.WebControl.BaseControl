@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{62B7E147-FB87-4162-80DA-E74416C0A06F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Nature.UI.WebControl.BaseControl</RootNamespace>
+    <AssemblyName>Nature.UI.WebControl.BaseControl</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\_dll\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>..\..\_dll\bin\Nature.UI.WebControl.BaseControl.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dictionary\DictionaryControl.cs" />
+    <Compile Include="List\ListHelp.cs" />
+    <Compile Include="List\MyCheckBox.cs" />
+    <Compile Include="List\myCheckBoxList.cs" />
+    <Compile Include="List\myDropDownList.cs" />
+    <Compile Include="List\myListBox.cs" />
+    <Compile Include="List\MyListPerson.cs" />
+    <Compile Include="List\myRadioButtonList.cs" />
+    <Compile Include="List\myUniteList.cs" />
+    <Compile Include="List\myUniteListProperty.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextBox\BaseTextBox.cs" />
+    <Compile Include="TextBox\MyTextBox.cs" />
+    <Compile Include="TextBox\MyTextBoxDateTime.cs" />
+    <Compile Include="TextBox\MyTextBoxTwo.cs" />
+    <Compile Include="TextBox\MyTextChoose.cs" />
+    <Compile Include="TextBox\MyTextUpLoad.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="List\控件总结构图（展开）.cd" />
+    <None Include="List\控件总结构图（未展开）.cd" />
+    <None Include="List\选择系控件.cd" />
+    <None Include="TextBox\文本系控件.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nature.Common\Nature.Common.csproj">
+      <Project>{55DC3025-75A9-441C-9D75-7652E46900F5}</Project>
+      <Name>Nature.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Nature.DataAccessLibrary\Nature.DataAccessLibrary.csproj">
+      <Project>{75BC6E2B-B380-4CFB-BAF2-BA7C568E1778}</Project>
+      <Name>Nature.DataAccessLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Nature.MetaData\Nature.MetaData.csproj">
+      <Project>{98C10895-982D-4B38-A5C9-C0B2552FF3F7}</Project>
+      <Name>Nature.MetaData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
